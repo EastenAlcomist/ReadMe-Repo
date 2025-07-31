@@ -1,4 +1,12 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# Dev-rules
+## TGW开发人员必看的开发规范手册
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+* 新人开发者阅读指南
+    >1. [开发流程](Docs/CodeProcess.md)
+    >1. [项目规范]()
+    >1. [文件树规范](Docs/DevBook/FileTreeRules.md)
+    >1. [命名规范]()
+
+* 项目经理必读
+    >1. [需求创建（开发流程第一节）](Docs/CodeProcess.md)
+
