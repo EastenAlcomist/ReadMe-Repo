@@ -1,5 +1,5 @@
 # Dev-rules
-## TGW开发人员必看的开发规范手册
+## 开发规范手册
 
 * 新人开发者阅读指南
     1. [开发流程](Docs/CodeProcessRules.md)
